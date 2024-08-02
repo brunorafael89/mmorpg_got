@@ -2,7 +2,7 @@
 
 ## Descrição
 MMORPG_GOT é um jogo de RPG online baseado no universo de Game of Thrones, onde os jogadores podem criar usuários, escolher uma casa e administrar seus recursos 
-e aldeões para realizar ações estratégicas. Cada jogador tem atributos únicos e pode executar várias ações com custos específicos em moedas e tempo.
+e aldeões para realizar ações estratégicas. Cada jogador tem  quatro atributos com quantidade de pontos aleatórios e pode executar várias ações com custos específicos em moedas e tempo.
 
 ## Funcionalidades
 - Cadastro de usuários
